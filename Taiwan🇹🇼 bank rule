@@ -54,9 +54,9 @@ host-suffix,o-bank.com,TaiwanBank
 host-suffix,post.gov.tw,TaiwanBank
 #補充 台資銀行在匪區分行
 #富邦華一銀行
-host-suffix,fubonchina.com,TaiwanBank
+#host-suffix,fubonchina.com,TaiwanBank
 #玉山銀行（中國）
-host-suffix,esun-bank.com.cn,TaiwanBank
-ip-cidr,124.196.18.154,TaiwanBank
+#host-suffix,esun-bank.com.cn,TaiwanBank
+#ip-cidr,124.196.18.154,TaiwanBank
 #永豐銀行中國
-host-suffix,sinopac.com.cn,TaiwanBank
+#host-suffix,sinopac.com.cn,TaiwanBank
