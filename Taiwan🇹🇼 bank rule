@@ -1,0 +1,62 @@
+#Taiwan🇹🇼 bank rule
+#中國信託銀行
+HOST-suffix,ctbcbank.com,TaiwanBank
+#台北富邦銀行
+Host-suffix,taipeifubon.com.tw,TaiwanBank
+#玉山銀行
+host-suffix,esunbank.com.tw,TaiwanBank
+host-suffix,esunbank.com,TaiwanBank
+#第一銀行
+host-suffix,firstbank.com.tw,TaiwanBank
+#ip-cidr,123.51.152.165:443,
+host-suffix,ileolife.com,TaiwanBank
+#永豐銀行
+host-suffix,sinopac.com,TaiwanBank
+host-suffix,twca.com.tw,TaiwanBank
+#台新銀行
+host-suffix,taishinbank.com.tw,TaiwanBank
+#聯邦銀行
+host-suffix,ubot.com.tw,TaiwanBank
+#兆豐銀行
+host-suffix,megabank.com.tw,TaiwanBank
+#兆豐銀行使用zimperium.com作安全驗證 按需使用
+#host-suffix,zimperium.com,TaiwanBank
+#國泰世華銀行
+host-suffix,cathaybk.com.tw,TaiwanBank
+host-suffix,mymobibank.com.tw,TaiwanBank
+host-suffix,cathayunitedbank.sc.omtrdc.net,TaiwanBank
+#上海商業儲蓄銀行
+host-suffix,scsb.com.tw,TaiwanBank
+#台灣土地銀行
+host-suffix,landbank.com.tw,TaiwanBank
+#使用twca.com.tw進行安全認證
+#host-suffix,twca.com.tw,TaiwanBank
+#高雄銀行
+host-suffix,bok.com.tw,TaiwanBank
+#元大銀行
+host-suffix,yuantabank.com.tw,TaiwanBank
+#合作金庫銀行
+host-suffix,tcb-bank.com.tw,TaiwanBank
+host-suffix,tcfhc-sec.com.tw,TaiwanBank
+#華南銀行
+#抓包失敗
+#台灣銀行
+host-suffix,bot.com.tw,TaiwanBank
+#遠東商業銀行
+host-suffix,feib.com.tw,TaiwanBank
+#遠東商業銀行使用zimperium.com作安全驗證 按需使用
+#host-suffix,zimperium.com,TaiwanBank
+#彰化銀行
+host-suffix,chb.com.tw.TaiwanBank
+#王道銀行
+host-suffix,o-bank.com,TaiwanBank
+#中華郵政
+host-suffix,post.gov.tw,TaiwanBank
+#補充 台資銀行在匪區分行
+#富邦華一銀行
+host-suffix,fubonchina.com,TaiwanBank
+#玉山銀行（中國）
+host-suffix,esun-bank.com.cn,TaiwanBank
+ip-cidr,124.196.18.154,TaiwanBank
+#永豐銀行中國
+host-suffix,sinopac.com.cn,TaiwanBank
