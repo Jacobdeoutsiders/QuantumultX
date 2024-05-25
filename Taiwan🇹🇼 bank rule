@@ -47,7 +47,7 @@ host-suffix,feib.com.tw,TaiwanBank
 #遠東商業銀行使用zimperium.com作安全驗證 按需使用
 #host-suffix,zimperium.com,TaiwanBank
 #彰化銀行
-host-suffix,chb.com.tw.TaiwanBank
+host-suffix,chb.com.tw,TaiwanBank
 #王道銀行
 host-suffix,o-bank.com,TaiwanBank
 #中華郵政
