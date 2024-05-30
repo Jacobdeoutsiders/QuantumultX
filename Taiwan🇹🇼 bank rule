@@ -17,6 +17,7 @@ host-suffix,twca.com.tw,TaiwanBank
 host-suffix,taishinbank.com.tw,TaiwanBank
 #聯邦銀行
 host-suffix,ubot.com.tw,TaiwanBank
+host-suffix,lihi1.com,TaiwanBank
 #兆豐銀行
 host-suffix,megabank.com.tw,TaiwanBank
 #兆豐銀行使用zimperium.com作安全驗證 按需使用
