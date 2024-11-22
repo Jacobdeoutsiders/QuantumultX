@@ -29,7 +29,7 @@ function ISP_ValidCheck(para) {
   }
 }
 
-function Area_check(para) {
+function timezone(para) {
   if(para=="Kiev"){
   return "Kyiv"
   } else
