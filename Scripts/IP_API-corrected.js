@@ -29,9 +29,9 @@ function ISP_ValidCheck(para) {
   }
 }
 
-function timezone(para) {
-  if(para=="Kiev"){
-  return "Kyiv"
+function Area_check(para) {
+  if(para=="中华民国"){
+  return "台湾"
   } else
   {
   return para
